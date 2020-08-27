@@ -11,5 +11,5 @@ To run the script, the following packages are required:
 * `unicornhat` - Pimoroni library to control the Unicorn pHAT
 
 ## Links
-[Pimoroni Unicorn pHAT GitHub repo](https://github.com/pimoroni/unicorn-hat)
-[Buy a Pimoroni Unicorn pHAT](https://shop.pimoroni.com/products/unicorn-phat)
+* [Pimoroni Unicorn pHAT GitHub repo](https://github.com/pimoroni/unicorn-hat)
+* [Buy a Pimoroni Unicorn pHAT](https://shop.pimoroni.com/products/unicorn-phat)
